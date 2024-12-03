@@ -1,0 +1,64 @@
+.body {
+  background-color: rgb(18, 17, 17);
+}
+.login-form {
+  padding-bottom: 25px;
+  flex: 1;
+  margin-left: 150px;
+}
+.sign-word {
+  color: rgb(19, 200, 19);
+  font-family: arial;
+  font-weight: bold;
+  font-size: 50px;
+  padding: 150px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+.username-part {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 230px;
+  background-color: rgb(37, 36, 36);
+  border: 1px solid rgb(37, 36, 36);
+}
+.email-part {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 230px;
+  background-color: rgb(37, 36, 36);
+  border: 1px solid rgb(37, 36, 36);
+  margin-top: 20px;
+}
+.password-part {
+  margin-top: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 230px;
+  background-color: rgb(37, 36, 36);
+  border: 1px solid rgb(37, 36, 36);
+}
+.login-button {
+  background-color: rgb(19, 200, 19);
+  color: black;
+  font-weight: bold;
+  width: 400px;
+  height: 40px;
+  border-radius: 5px;
+  margin-top: 0px;
+}
+.forget-word {
+  color: white;
+  margin-left: 60px;
+}
+.log-in {
+  color: rgb(19, 200, 19);
+  margin-left: 200px;
+  width: 85px;
+  border-radius: 15px;
+  background-color: black;
+  padding: 5px;
+}
